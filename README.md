@@ -1,17 +1,17 @@
-# Contains Studio AI Agents
+# Crypto Exchange Development Agents
 
-A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
+A specialized collection of AI agents designed specifically for cryptocurrency exchange development teams. Each agent is an expert in their domain, ready to accelerate development across all aspects of crypto exchange operations - from blockchain integration to regulatory compliance.
 
 ## 📥 Installation
 
 1. **Download this repository:**
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/your-org/crypto-exchange-agents.git
    ```
 
 2. **Copy to your Claude Code agents directory:**
    ```bash
-   cp -r agents/* ~/.claude/agents/
+   cp -r crypto-exchange-agents/* ~/.claude/agents/
    ```
    
    Or manually copy all the agent files to your `~/.claude/agents/` directory.
@@ -25,274 +25,258 @@ Agents are automatically available in Claude Code. Simply describe your task and
 📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 
 ### Example Usage
-- "Create a new app for tracking meditation habits" → `rapid-prototyper`
-- "What's trending on TikTok that we could build?" → `trend-researcher`
-- "Our app reviews are dropping, what's wrong?" → `feedback-synthesizer`
-- "Make this loading screen more fun" → `whimsy-injector`
+- "Build a high-frequency order matching engine" → `trading-engine`
+- "Implement multi-blockchain wallet integration" → `blockchain-architect`
+- "Set up KYC/AML compliance for EU markets" → `compliance-analyst`
+- "Create iOS trading app with biometric security" → `ios-specialist`
+- "Optimize our development QA for blockchain testing" → `dev-qa-tester`
 
-## 📁 Directory Structure
+## 📁 Department Structure
 
-Agents are organized by department for easy discovery:
+Agents are organized by crypto exchange departments for easy discovery:
 
 ```
-contains-studio-agents/
-├── design/
-│   ├── brand-guardian.md
-│   ├── ui-designer.md
-│   ├── ux-researcher.md
-│   ├── visual-storyteller.md
-│   └── whimsy-injector.md
-├── engineering/
-│   ├── ai-engineer.md
+crypto-exchange-agents/
+├── backend/
 │   ├── backend-architect.md
+│   ├── user-panel-backend.md
+│   ├── admin-panel-backend.md
+│   └── strapi-integrator.md
+├── blockchain/
+│   ├── blockchain-architect.md
+│   ├── trading-engine.md
+│   ├── security-auditor.md
+│   └── defi-integrator.md
+├── frontend/
+│   ├── user-panel-frontend.md
+│   ├── admin-panel-frontend.md
+│   ├── site-frontend.md
+│   └── mobile-web-optimizer.md
+├── mobile/
+│   ├── ios-specialist.md
+│   ├── android-specialist.md
+│   └── mobile-security.md
+├── devops/
 │   ├── devops-automator.md
-│   ├── frontend-developer.md
-│   ├── mobile-app-builder.md
-│   ├── rapid-prototyper.md
-│   └── test-writer-fixer.md
-├── marketing/
-│   ├── app-store-optimizer.md
-│   ├── content-creator.md
-│   ├── growth-hacker.md
-│   ├── instagram-curator.md
-│   ├── reddit-community-builder.md
-│   ├── tiktok-strategist.md
-│   └── twitter-engager.md
+│   ├── security-infrastructure.md
+│   ├── performance-optimizer.md
+│   └── content-infrastructure.md
+├── qa/
+│   ├── dev-qa-tester.md
+│   ├── dev-security-tester.md
+│   ├── stage-qa-tester.md
+│   ├── stage-performance-tester.md
+│   ├── prod-qa-monitor.md
+│   └── prod-compliance-tester.md
+├── content/
+│   ├── strapi-content-manager.md
+│   ├── translation-manager.md
+│   ├── asset-manager.md
+│   └── content-strategist.md
 ├── product/
-│   ├── feedback-synthesizer.md
-│   ├── sprint-prioritizer.md
-│   └── trend-researcher.md
+│   ├── crypto-product-manager.md
+│   ├── compliance-analyst.md
+│   ├── risk-manager.md
+│   └── ux-researcher.md
 ├── project-management/
-│   ├── experiment-tracker.md
-│   ├── project-shipper.md
-│   └── studio-producer.md
-├── studio-operations/
-│   ├── analytics-reporter.md
-│   ├── finance-tracker.md
-│   ├── infrastructure-maintainer.md
-│   ├── legal-compliance-checker.md
-│   └── support-responder.md
-├── testing/
-│   ├── api-tester.md
-│   ├── performance-benchmarker.md
-│   ├── test-results-analyzer.md
-│   ├── tool-evaluator.md
-│   └── workflow-optimizer.md
-└── bonus/
-    ├── joker.md
-    └── studio-coach.md
+│   ├── crypto-project-manager.md
+│   ├── launch-coordinator.md
+│   └── sprint-master.md
+├── marketing/
+│   └── seo-specialist.md
+└── operations/
+    ├── customer-support.md
+    ├── incident-responder.md
+    └── finance-controller.md
 ```
 
-## 📋 Complete Agent List
+## 🏗️ Complete Agent List
 
-### Engineering Department (`engineering/`)
-- **ai-engineer** - Integrate AI/ML features that actually ship
-- **backend-architect** - Design scalable APIs and server systems
-- **devops-automator** - Deploy continuously without breaking things
-- **frontend-developer** - Build blazing-fast user interfaces
-- **mobile-app-builder** - Create native iOS/Android experiences
-- **rapid-prototyper** - Build MVPs in days, not weeks
-- **test-writer-fixer** - Write tests that catch real bugs
+### Backend Development (`backend/`)
+- **backend-architect** - Design scalable crypto exchange architecture with sub-millisecond latency
+- **user-panel-backend** - Build user trading APIs, portfolio management, and KYC integration
+- **admin-panel-backend** - Create admin dashboards, user management, and analytics systems
+- **strapi-integrator** - Manage static content, multilingual support, and S3 asset integration
 
-### Product Department (`product/`)
-- **feedback-synthesizer** - Transform complaints into features
-- **sprint-prioritizer** - Ship maximum value in 6 days
-- **trend-researcher** - Identify viral opportunities
+### Blockchain Integration (`blockchain/`) *[CRYPTO-SPECIFIC]*
+- **blockchain-architect** - Integrate multiple blockchains, smart contracts, and DeFi protocols
+- **trading-engine** - Build high-frequency order matching with sub-microsecond execution
+- **security-auditor** - Conduct smart contract audits and security assessments
+- **defi-integrator** - Integrate yield farming, staking, and liquidity protocols
 
-### Marketing Department (`marketing/`)
-- **app-store-optimizer** - Dominate app store search results
-- **content-creator** - Generate content across all platforms
-- **growth-hacker** - Find and exploit viral growth loops
-- **instagram-curator** - Master the visual content game
-- **reddit-community-builder** - Win Reddit without being banned
-- **tiktok-strategist** - Create shareable marketing moments
-- **twitter-engager** - Ride trends to viral engagement
+### Frontend Development (`frontend/`)
+- **user-panel-frontend** - Create real-time trading interfaces with advanced charting
+- **admin-panel-frontend** - Build comprehensive admin tools and user management UIs
+- **site-frontend** - Develop marketing sites with WordPress and Strapi integration
+- **mobile-web-optimizer** - Optimize responsive interfaces for mobile trading
 
-### Design Department (`design/`)
-- **brand-guardian** - Keep visual identity consistent everywhere
-- **ui-designer** - Design interfaces developers can actually build
-- **ux-researcher** - Turn user insights into product improvements
-- **visual-storyteller** - Create visuals that convert and share
-- **whimsy-injector** - Add delight to every interaction
+### Mobile Development (`mobile/`)
+- **ios-specialist** - Build native iOS trading apps with biometric security
+- **android-specialist** - Develop native Android apps with secure key storage
+- **mobile-security** - Implement cross-platform mobile security and authentication
 
-### Project Management (`project-management/`)
-- **experiment-tracker** - Data-driven feature validation
-- **project-shipper** - Launch products that don't crash
-- **studio-producer** - Keep teams shipping, not meeting
+### DevOps & Infrastructure (`devops/`)
+- **devops-automator** - Create CI/CD pipelines for multi-environment deployment
+- **security-infrastructure** - Implement crypto exchange security and monitoring
+- **performance-optimizer** - Optimize for high-frequency trading performance
+- **content-infrastructure** - Manage WordPress, Strapi, and S3 infrastructure
 
-### Studio Operations (`studio-operations/`)
-- **analytics-reporter** - Turn data into actionable insights
-- **finance-tracker** - Keep the studio profitable
-- **infrastructure-maintainer** - Scale without breaking the bank
-- **legal-compliance-checker** - Stay legal while moving fast
-- **support-responder** - Turn angry users into advocates
+### Quality Assurance (`qa/`) *[MULTI-STAGE]*
+**Development Environment:**
+- **dev-qa-tester** - Unit and integration testing with blockchain test environments
+- **dev-security-tester** - Security scanning and vulnerability assessment
 
-### Testing & Benchmarking (`testing/`)
-- **api-tester** - Ensure APIs work under pressure
-- **performance-benchmarker** - Make everything faster
-- **test-results-analyzer** - Find patterns in test failures
-- **tool-evaluator** - Choose tools that actually help
-- **workflow-optimizer** - Eliminate workflow bottlenecks
+**Staging Environment:**
+- **stage-qa-tester** - End-to-end testing with production-like data
+- **stage-performance-tester** - Load testing and performance validation
 
-## 🎁 Bonus Agents
-- **studio-coach** - Rally the AI troops to excellence
-- **joker** - Lighten the mood with tech humor
+**Production Environment:**
+- **prod-qa-monitor** - Live monitoring and incident response testing
+- **prod-compliance-tester** - Regulatory compliance and audit support
 
-## 🎯 Proactive Agents
+### Content Management (`content/`) *[NEW DEPARTMENT]*
+- **strapi-content-manager** - Manage static content, splash screens, and help documentation
+- **translation-manager** - Handle i18n files and multilingual content via S3
+- **asset-manager** - Organize S3 files, icons, and media optimization
+- **content-strategist** - Coordinate WordPress blog and Strapi static content
 
-Some agents trigger automatically in specific contexts:
-- **studio-coach** - When complex multi-agent tasks begin or agents need guidance
-- **test-writer-fixer** - After implementing features, fixing bugs, or modifying code
-- **whimsy-injector** - After UI/UX changes
-- **experiment-tracker** - When feature flags are added
+### Product & Strategy (`product/`)
+- **crypto-product-manager** - Prioritize crypto features and analyze market opportunities
+- **compliance-analyst** - Ensure KYC/AML compliance and regulatory adherence
+- **risk-manager** - Implement trading risk controls and fraud detection
+- **ux-researcher** - Optimize crypto trading user experience and behavior
 
-## 💡 Best Practices
+### Project Management (`project-management/`) *[COORDINATION]*
+- **crypto-project-manager** - Manage complex crypto development projects and cross-team coordination
+- **launch-coordinator** - Orchestrate product launches and go-to-market strategies
+- **sprint-master** - Facilitate 6-day sprints and optimize agile development processes
 
-1. **Let agents work together** - Many tasks benefit from multiple agents
-2. **Be specific** - Clear task descriptions help agents perform better
-3. **Trust the expertise** - Agents are designed for their specific domains
-4. **Iterate quickly** - Agents support the 6-day sprint philosophy
+### Marketing (`marketing/`) *[GROWTH]*
+- **seo-specialist** - Optimize search rankings, crypto keywords, and organic traffic strategies
 
-## 🔧 Technical Details
+### Operations (`operations/`)
+- **customer-support** - Provide crypto-specific support and dispute resolution
+- **incident-responder** - Handle 24/7 monitoring and crisis management
+- **finance-controller** - Manage treasury, accounting, and regulatory reporting
 
-### Agent Structure
-Each agent includes:
-- **name**: Unique identifier
-- **description**: When to use the agent with examples
-- **color**: Visual identification
-- **tools**: Specific tools the agent can access
-- **System prompt**: Detailed expertise and instructions
+## 🎯 Crypto Exchange Specializations
 
-### Adding New Agents
-1. Create a new `.md` file in the appropriate department folder
-2. Follow the existing format with YAML frontmatter
-3. Include 3-4 detailed usage examples
-4. Write comprehensive system prompt (500+ words)
-5. Test the agent with real tasks
+### 🔐 **Security-First Architecture**
+- Multi-signature wallet systems with cold storage
+- Blockchain transaction monitoring and anomaly detection
+- Advanced authentication with biometric and hardware security modules
+- Comprehensive audit trails and regulatory compliance
 
-## 📊 Agent Performance
+### ⚡ **High-Performance Trading**
+- Sub-millisecond order matching engines
+- Real-time market data streaming with WebSocket optimization
+- Low-latency database design for order books and trade history
+- Horizontal scaling for institutional trading volumes
 
-Track agent effectiveness through:
-- Task completion time
-- User satisfaction
-- Error rates
-- Feature adoption
-- Development velocity
+### 🌍 **Global Compliance**
+- Multi-jurisdiction regulatory compliance (US, EU, UK, Asia)
+- Automated KYC/AML with risk-based verification
+- MiCA, BSA, FCA compliance frameworks
+- Cross-border transaction monitoring and reporting
 
-## 🚦 Status
+### 📱 **Mobile-First Trading**
+- Native iOS and Android apps with institutional-grade security
+- Real-time trading with touch-optimized interfaces
+- Biometric authentication and secure key storage
+- Offline capabilities and seamless synchronization
 
-- ✅ **Active**: Fully functional and tested
-- 🚧 **Coming Soon**: In development
-- 🧪 **Beta**: Testing with limited functionality
+### 🔗 **Multi-Blockchain Support**
+- Bitcoin, Ethereum, BSC, Polygon, and Layer 2 integration
+- Cross-chain bridge protocols and asset transfers
+- DeFi protocol integration for yield and staking
+- Smart contract security and formal verification
 
-## 🛠️ Customizing Agents for Your Studio
+## 💡 Best Practices for Crypto Development
 
-### Agent Customization Todo List
+1. **Security by Design** - Every component prioritizes security over convenience
+2. **Regulatory First** - Compliance considerations integrated from day one
+3. **Performance Critical** - Sub-second response times for all trading operations
+4. **Global Scale** - Multi-region deployment with local compliance
+5. **Audit Ready** - Comprehensive logging and immutable audit trails
 
-Use this checklist when creating or modifying agents for your specific needs:
+## 🔧 Technical Stack Expertise
+
+### **Languages & Frameworks**
+- **High Performance:** C++, Rust, Go for trading engines
+- **Backend:** Node.js, Python, Java for APIs and services  
+- **Frontend:** React, Vue, TypeScript for trading interfaces
+- **Mobile:** Swift (iOS), Kotlin (Android), React Native alternatives
+- **Blockchain:** Solidity, Web3, Ethers.js for smart contracts
+
+### **Databases & Storage**
+- **Trading Data:** PostgreSQL, TimescaleDB for time-series data
+- **Real-time:** Redis, In-memory databases for order books
+- **Documents:** MongoDB for user profiles and KYC data
+- **Assets:** S3, CDN for global asset delivery
+- **Blockchain:** Custom indexing and caching solutions
+
+### **Infrastructure & DevOps**
+- **Orchestration:** Kubernetes, Docker for containerized deployments
+- **Cloud:** AWS, GCP with dedicated instances for trading
+- **Monitoring:** Prometheus, Grafana, DataDog for system health
+- **Security:** WAF, DDoS protection, intrusion detection
+- **Compliance:** Audit logging, data retention, disaster recovery
+
+## 🚦 Environment Strategy
+
+Our agents are designed for **three-stage deployment:**
+
+- **🔧 Development** - Fast iteration with comprehensive testing
+- **🎯 Staging** - Production-like validation and performance testing  
+- **🚀 Production** - Live monitoring with zero-downtime deployments
+
+Each QA agent is specialized for their environment stage, ensuring quality at every level.
+
+## 📊 Success Metrics
+
+Track your crypto exchange development effectiveness through:
+- **Trading Performance:** Order-to-trade latency < 100 microseconds
+- **System Reliability:** 99.99% uptime (52 minutes downtime/year)
+- **Security:** Zero successful breaches, comprehensive audit compliance
+- **Compliance:** 100% regulatory reporting accuracy and timeliness
+- **User Experience:** < 3 second page load times, mobile-first design
+- **Development Velocity:** Features delivered within 6-day sprint cycles
+
+## 🛠️ Customizing Agents for Your Exchange
+
+### Agent Customization Checklist
+
+When customizing agents for your specific crypto exchange needs:
 
 #### 📋 Required Components
-- [ ] **YAML Frontmatter**
-  - [ ] `name`: Unique agent identifier (kebab-case)
-  - [ ] `description`: When to use + 3-4 detailed examples with context/commentary
-  - [ ] `color`: Visual identification (e.g., blue, green, purple, indigo)
-  - [ ] `tools`: Specific tools the agent can access (Write, Read, MultiEdit, Bash, etc.)
+- [x] **YAML Frontmatter** with crypto-specific examples
+- [x] **System Prompt** with 500+ words of crypto domain expertise
+- [x] **Tool Access** appropriate for crypto development tasks
+- [x] **Security Focus** with defensive development practices only
 
-#### 📝 System Prompt Requirements (500+ words)
-- [ ] **Agent Identity**: Clear role definition and expertise area
-- [ ] **Core Responsibilities**: 5-8 specific primary duties
-- [ ] **Domain Expertise**: Technical skills and knowledge areas
-- [ ] **Studio Integration**: How agent fits into 6-day sprint workflow
-- [ ] **Best Practices**: Specific methodologies and approaches
-- [ ] **Constraints**: What the agent should/shouldn't do
-- [ ] **Success Metrics**: How to measure agent effectiveness
+#### 🎯 Crypto-Specific Examples
+- **Trading Operations:** Order placement, portfolio management, risk controls
+- **Blockchain Integration:** Multi-chain wallets, transaction monitoring
+- **Compliance Requirements:** KYC/AML, regulatory reporting, audit trails
+- **Security Implementation:** Authentication, key management, threat detection
 
-#### 🎯 Required Examples by Agent Type
-
-**Engineering Agents** need examples for:
-- [ ] Feature implementation requests
-- [ ] Bug fixing scenarios
-- [ ] Code refactoring tasks
-- [ ] Architecture decisions
-
-**Design Agents** need examples for:
-- [ ] New UI component creation
-- [ ] Design system work
-- [ ] User experience problems
-- [ ] Visual identity tasks
-
-**Marketing Agents** need examples for:
-- [ ] Campaign creation requests
-- [ ] Platform-specific content needs
-- [ ] Growth opportunity identification
-- [ ] Brand positioning tasks
-
-**Product Agents** need examples for:
-- [ ] Feature prioritization decisions
-- [ ] User feedback analysis
-- [ ] Market research requests
-- [ ] Strategic planning needs
-
-**Operations Agents** need examples for:
-- [ ] Process optimization
-- [ ] Tool evaluation
-- [ ] Resource management
-- [ ] Performance analysis
-
-#### ✅ Testing & Validation Checklist
-- [ ] **Trigger Testing**: Agent activates correctly for intended use cases
-- [ ] **Tool Access**: Agent can use all specified tools properly
-- [ ] **Output Quality**: Responses are helpful and actionable
-- [ ] **Edge Cases**: Agent handles unexpected or complex scenarios
-- [ ] **Integration**: Works well with other agents in multi-agent workflows
-- [ ] **Performance**: Completes tasks within reasonable timeframes
-- [ ] **Documentation**: Examples accurately reflect real usage patterns
-
-#### 🔧 Agent File Structure Template
-
-```markdown
----
-name: your-agent-name
-description: Use this agent when [scenario]. This agent specializes in [expertise]. Examples:\n\n<example>\nContext: [situation]\nuser: "[user request]"\nassistant: "[response approach]"\n<commentary>\n[why this example matters]\n</commentary>\n</example>\n\n[3 more examples...]
-color: agent-color
-tools: Tool1, Tool2, Tool3
----
-
-You are a [role] who [primary function]. Your expertise spans [domains]. You understand that in 6-day sprints, [sprint constraint], so you [approach].
-
-Your primary responsibilities:
-1. [Responsibility 1]
-2. [Responsibility 2]
-...
-
-[Detailed system prompt content...]
-
-Your goal is to [ultimate objective]. You [key behavior traits]. Remember: [key philosophy for 6-day sprints].
-```
-
-#### 📂 Department-Specific Guidelines
-
-**Engineering** (`engineering/`): Focus on implementation speed, code quality, testing
-**Design** (`design/`): Emphasize user experience, visual consistency, rapid iteration  
-**Marketing** (`marketing/`): Target viral potential, platform expertise, growth metrics
-**Product** (`product/`): Prioritize user value, data-driven decisions, market fit
-**Operations** (`studio-operations/`): Optimize processes, reduce friction, scale systems
-**Testing** (`testing/`): Ensure quality, find bottlenecks, validate performance
-**Project Management** (`project-management/`): Coordinate teams, ship on time, manage scope
-
-#### 🎨 Customizations
-
-Modify these elements for your needs:
-- [ ] Adjust examples to reflect your product types
-- [ ] Add specific tools agents have access to
-- [ ] Modify success metrics for your KPIs
-- [ ] Update department structure if needed
-- [ ] Customize agent colors for your brand
+#### ✅ Validation Requirements
+- **Regulatory Compliance:** All agents understand applicable regulations
+- **Security Standards:** Defensive coding and security-first approaches
+- **Performance Requirements:** Sub-second response times for critical paths
+- **Multi-Environment:** Development, staging, production optimization
 
 ## 🤝 Contributing
 
-To improve existing agents or suggest new ones:
-1. Use the customization checklist above
-2. Test thoroughly with real projects
-3. Document performance improvements
-4. Share successful patterns with the community
+To improve existing agents or suggest new crypto-specific capabilities:
+1. Follow the crypto exchange customization checklist
+2. Test with realistic crypto trading scenarios
+3. Validate security and compliance requirements
+4. Document performance improvements and benchmarks
+5. Share successful patterns with the crypto development community
+
+## 📜 License & Compliance
+
+This agent collection is designed specifically for legitimate cryptocurrency exchange development and includes built-in compliance and security guidance. All agents follow defensive security practices and regulatory compliance frameworks.
+
+**⚠️ Important:** These agents are designed for building legitimate, compliant cryptocurrency exchanges only. They include extensive regulatory compliance and security guidance to ensure your exchange operates within legal frameworks.
