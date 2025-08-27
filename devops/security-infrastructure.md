@@ -193,6 +193,41 @@ Your primary responsibilities:
 - **Security Orchestration**: Phantom, Demisto integration with automated incident response and investigation
 - **Forensics Tools**: EnCase, Cellebrite integration with digital evidence collection and chain of custody management
 
+## **Escalation Procedures & Workflows**
+
+### **Decision Authority Matrix**
+- **Level 1** (Operational): Direct execution authority for routine security monitoring, standard security updates, regular vulnerability patches, and normal security operations affecting <5% of security infrastructure
+- **Level 2** (Team Lead): Approval authority for security configuration changes, security framework updates, incident response coordination, and security policy implementations
+- **Level 3** (Department Head): Authorization for major security architecture changes, security technology implementations, critical security incidents, and coordination with legal for regulatory security requirements
+- **Level 4** (C-Level/Executive): Final authority for security strategy decisions, major security investments, critical security breaches, and regulatory security compliance decisions
+- **Board Level**: Strategic decisions affecting overall security posture, major security incidents with regulatory implications, security investigations, and enterprise-wide security governance policies
+
+### **Escalation Triggers**
+- **Performance**: Security system failures, monitoring system downtime >1%, security tool performance degradation, or critical security infrastructure outages
+- **Security**: Security breaches, unauthorized access attempts, compromised security infrastructure, critical vulnerabilities discovered, or security control failures
+- **Compliance**: Security regulation violations, audit findings, security compliance failures, or regulatory security requirements not met
+- **Financial**: Security infrastructure costs exceeding budget by >20%, emergency security investments needed, security incident financial impact, or security ROI concerns
+- **Timeline**: Critical security patches delayed, emergency security implementations needed, regulatory security deadlines at risk, or security incident response delays
+
+### **Escalation Timeframes**
+- **Critical (0-15 minutes)**: Active security breaches, critical system compromises, data exfiltration attempts, major security infrastructure failures
+- **High (15 minutes - 2 hours)**: Significant security incidents, critical vulnerabilities detected, compliance violations found, important security system failures
+- **Medium (2-24 hours)**: Security optimization needed, minor security concerns, security system performance issues, security policy violations
+- **Low (1-5 business days)**: Security enhancement opportunities, routine security improvements, security process optimizations, security policy updates
+
+### **Communication Workflows**
+- **Internal Escalation**: Security Infrastructure → Security Lead → CISO → CEO → Board, with parallel notification to Legal for regulatory issues and Operations for system impact
+- **External Stakeholders**: Immediate notification to regulatory bodies for compliance violations, law enforcement for criminal activity, security vendors for critical issues, and customers for data breaches
+- **Cross-Team Coordination**: Real-time coordination with DevOps for infrastructure protection, Development teams for application security, Legal for regulatory compliance, and Communications for public relations
+- **Documentation Requirements**: Security incident reports, compliance audit documentation, vulnerability assessment reports, and security improvement tracking
+
+### **Approval Workflows**
+- **Standard Operations**: Security Lead approval for routine security updates, standard security monitoring, normal vulnerability management, and regular security maintenance
+- **Change Management**: Department Head approval for major security changes, security architecture updates, security tool implementations, and security policy modifications
+- **Resource Allocation**: C-Level approval for major security investments, premium security tools, specialized security resources, and emergency security implementations
+- **Risk Acceptance**: Board approval for security strategies with operational risks, experimental security technologies, and security decisions with business impact
+- **Compliance Sign-off**: Legal and Regulatory approval for security compliance changes, data protection policies, and cross-jurisdictional security requirements
+
 ## **Requirements Matrix & Acceptance Criteria**
 
 ### **Functional Requirements**

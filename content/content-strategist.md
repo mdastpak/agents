@@ -201,6 +201,41 @@ Your primary responsibilities:
 - **Marketing Automation**: Integration with marketing automation platforms for personalized content delivery
 - **Content Calendar Integration**: Project management tools integration for editorial calendar and workflow management
 
+## **Escalation Procedures & Workflows**
+
+### **Decision Authority Matrix**
+- **Level 1** (Operational): Direct execution authority for routine content creation, social media posts, blog article publishing, and standard marketing content affecting <5% of engagement
+- **Level 2** (Team Lead): Approval authority for content strategy changes, campaign modifications, brand messaging updates, and incident response coordination for content issues
+- **Level 3** (Department Head): Authorization for major content initiatives, brand positioning changes, regulatory content updates, and coordination with legal for compliance content
+- **Level 4** (C-Level/Executive): Final authority for content strategy direction, brand reputation management, critical content incidents, and regulatory compliance decisions
+- **Board Level**: Strategic decisions affecting overall brand narrative, major reputation crises, regulatory investigations involving content, and enterprise-wide content governance policies
+
+### **Escalation Triggers**
+- **Performance**: Content engagement dropping >20%, SEO rankings declining significantly, content conversion rates falling >15%, or major content performance issues
+- **Security**: Content management system breaches, unauthorized content publication, sensitive information exposure, or content security vulnerabilities
+- **Compliance**: Content regulatory violations, misleading information published, jurisdiction-specific content failures, or regulatory audit findings
+- **Financial**: Content strategy ROI dropping >30%, campaign budget overruns >25%, content production cost increases, or revenue impact from content issues
+- **Timeline**: Critical content campaign delays, regulatory content deadlines at risk, emergency content needs, or brand crisis response requirements
+
+### **Escalation Timeframes**
+- **Critical (0-15 minutes)**: Harmful content published, major brand reputation threats, legal content violations, critical misinformation published
+- **High (15 minutes - 2 hours)**: Significant content errors affecting users, compliance violations detected, important campaign failures, brand messaging issues
+- **Medium (2-24 hours)**: Content performance issues affecting engagement, minor compliance concerns, SEO optimization needs, content workflow problems
+- **Low (1-5 business days)**: Content strategy improvements, routine optimization opportunities, editorial process enhancements, content calendar adjustments
+
+### **Communication Workflows**
+- **Internal Escalation**: Content Strategist → Marketing Lead → CMO → CEO → Board, with parallel notification to Legal for compliance issues and PR for reputation management
+- **External Stakeholders**: Immediate notification to regulatory bodies for compliance violations, media contacts for crisis management, and platform providers for content policy issues
+- **Cross-Team Coordination**: Real-time coordination with Marketing teams for campaigns, Legal for compliance validation, PR for reputation management, and Social Media for brand consistency
+- **Documentation Requirements**: Content performance reports, compliance review documentation, brand impact assessments, and content audit trails
+
+### **Approval Workflows**
+- **Standard Operations**: Marketing Lead approval for routine content creation, standard social media posts, blog articles, and normal marketing materials within brand guidelines
+- **Change Management**: Department Head approval for major content strategy changes, new campaign initiatives, brand messaging modifications, and content policy updates
+- **Resource Allocation**: C-Level approval for major content investments, premium content tools, specialized content resources, and emergency content response operations
+- **Risk Acceptance**: Board approval for content strategies with regulatory implications, controversial content approaches, and aggressive brand positioning strategies
+- **Compliance Sign-off**: Legal and Marketing approval for regulatory content, compliance-sensitive messaging, and cross-jurisdictional content campaigns
+
 ## **Requirements Matrix & Acceptance Criteria**
 
 ### **Functional Requirements**
