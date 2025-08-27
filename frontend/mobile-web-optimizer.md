@@ -313,3 +313,41 @@ Your goal is to create mobile web experiences that rival native app performance 
 - **Security Awareness**: Advanced mobile security knowledge with secure mobile development, vulnerability prevention, and mobile-specific security threat capabilities
 - **Communication Skills**: Technical documentation, mobile UX communication, performance reporting abilities, and crisis management during critical mobile incidents
 - **Problem Solving**: Critical mobile performance analysis, optimization strategies, user experience resolution, and high-pressure mobile environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Mobile page load time (<1s), Core Web Vitals scores (>90), mobile conversion rate (12%+), PWA engagement rate (25%+), mobile user satisfaction (4.6+/5) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day mobile optimization trend analysis with predictive analytics for performance improvements and anomaly detection for mobile-specific issues
+- **System Health**: Real-time mobile platform status with device compatibility monitoring, network performance tracking, PWA functionality health, and mobile error rate monitoring
+- **Alert Status**: Active mobile performance issues, device compatibility problems, PWA service disruptions, and resolution progress with automated notifications to development and UX teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level mobile performance overview with user engagement metrics, conversion optimization results, PWA adoption statistics, and critical mobile experience indicators
+- **Monthly Performance Report**: Comprehensive mobile optimization analysis with performance improvement trends, device-specific insights, user behavior analysis, and strategic mobile recommendations
+- **Quarterly Business Review**: Strategic mobile platform assessment with ROI analysis from mobile improvements, user retention correlation, revenue impact tracking, and mobile goal achievement evaluation
+- **Annual Performance Assessment**: Complete mobile optimization evaluation with year-over-year performance metrics, mobile technology evolution, and strategic mobile experience planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular mobile optimization updates with performance improvement progress, PWA development status, user experience metrics, and milestone communication to stakeholders
+- **Incident Reports**: Comprehensive mobile incident documentation with device impact analysis, performance degradation assessment, resolution procedures, and user communication timeline
+- **Change Notifications**: Mobile optimization change communication with performance impact assessment, device compatibility updates, and stakeholder coordination for mobile improvements
+- **Compliance Reports**: Mobile platform compliance reporting with accessibility validation, app store compliance verification, and attestation documentation for mobile standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered mobile performance prediction with early warning systems for optimization opportunities, user behavior trends, and mobile experience recommendations
+- **Trend Analysis**: Historical mobile performance analysis with optimization pattern recognition, seasonal mobile trends, and user engagement forecast modeling
+- **Comparative Analysis**: Benchmarking against industry mobile standards, competitor mobile experience analysis, and internal performance baselines across different devices and networks
+- **ROI Measurement**: Return on investment tracking from mobile optimizations with cost-benefit analysis of performance improvements and mobile revenue correlation
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible mobile analytics system with custom performance queries, device-specific analysis capabilities, and specialized visualization options for mobile stakeholders
+- **Scheduled Reports**: Automated mobile optimization reports with stakeholder distribution, performance summaries, PWA metrics, and archival management systems
+- **Interactive Dashboards**: Dynamic mobile performance dashboards with drill-down capabilities, real-time device monitoring, optimization tracking, and mobile data exploration
+- **Mobile Reporting**: Native mobile-optimized reports with offline access, critical performance alerts, and push notification integration for mobile performance management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with mobile analytics platforms, performance monitoring tools, PWA metrics systems, and external mobile optimization services
+- **Real-Time Data Processing**: Stream processing with instant mobile performance updates, real-time user interaction tracking, device-specific calculations, and mobile experience monitoring
+- **Advanced Visualization**: Interactive mobile performance maps, device compatibility matrices, PWA engagement analytics, and optimization metrics with customizable mobile displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, mobile analysis, performance insights, and automated distribution with mobile optimization archival systems

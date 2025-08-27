@@ -341,3 +341,41 @@ Your goal is to create user interfaces that make cryptocurrency trading and wall
 - **Security Awareness**: Advanced frontend security knowledge with secure user authentication, financial data protection, and trading interface security capabilities
 - **Communication Skills**: Technical documentation, user experience communication, customer-facing design abilities, and crisis management during platform disruptions
 - **Problem Solving**: Critical interface analysis, user experience optimization, trading workflow resolution, and high-pressure development environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Page load time (<1.5s), trading interface responsiveness (>98%), user conversion rate (15%+), session duration (20min+), user satisfaction score (4.7+/5) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day user interface performance trend analysis with predictive analytics for user engagement optimization and anomaly detection for trading workflow issues
+- **System Health**: Real-time frontend system status with component availability monitoring, trading API response times, real-time data streaming health, and error rate monitoring
+- **Alert Status**: Active user interface issues, trading workflow problems, performance degradation alerts, and resolution progress with automated notifications to development and customer support teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level user interface performance overview with user engagement metrics, trading activity statistics, conversion rates, and critical user experience indicators
+- **Monthly Performance Report**: Comprehensive frontend analysis with user behavior trends, trading interface optimization results, feature adoption analysis, and strategic UX recommendations
+- **Quarterly Business Review**: Strategic user interface assessment with ROI analysis from UX improvements, user retention gains, trading volume correlation, and customer satisfaction tracking
+- **Annual Performance Assessment**: Complete user interface evaluation with year-over-year engagement metrics, trading interface evolution, and strategic customer experience planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular user interface updates with feature development progress, user engagement metrics, customer feedback integration, and milestone communication to stakeholders
+- **Incident Reports**: Comprehensive interface incident documentation with user impact analysis, trading disruption assessment, resolution procedures, and customer communication timeline
+- **Change Notifications**: User interface change communication with feature impact assessment, user training materials, and stakeholder coordination for trading interface updates
+- **Compliance Reports**: Regulatory user interface compliance reporting with accessibility validation, customer protection compliance, and attestation documentation for user experience standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered user behavior prediction with early warning systems for engagement drops, trading pattern analysis, and user experience optimization recommendations
+- **Trend Analysis**: Historical user interface analysis with engagement pattern recognition, trading behavior trends, and customer retention forecast modeling
+- **Comparative Analysis**: Benchmarking against industry trading interface standards, competitor user experience analysis, and internal performance baselines across different user segments
+- **ROI Measurement**: Return on investment tracking from interface improvements with cost-benefit analysis of UX development efforts and customer lifetime value correlation
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible user interface analytics with custom user journey queries, trading behavior analysis capabilities, and specialized visualization options for product stakeholders
+- **Scheduled Reports**: Automated user interface reports with stakeholder distribution, engagement summaries, trading activity updates, and archival management systems
+- **Interactive Dashboards**: Dynamic user experience dashboards with drill-down capabilities, real-time user monitoring, trading interface tracking, and customer data exploration
+- **Mobile Reporting**: Mobile-optimized user interface reports with offline access, critical user experience alerts, and push notification integration for customer success management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with trading APIs, user analytics platforms, customer feedback systems, A/B testing tools, and external user experience services
+- **Real-Time Data Processing**: Stream processing with instant interface updates, real-time user interaction tracking, trading activity monitoring, and customer experience calculations
+- **Advanced Visualization**: Interactive user journey maps, trading behavior heat maps, conversion funnel analytics, and engagement metrics with customizable customer experience displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, customer analysis, trading insights, and automated distribution with user experience archival systems

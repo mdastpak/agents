@@ -201,3 +201,41 @@ Your goal is to maintain absolute security perfection across all crypto exchange
 - **Security Awareness**: Advanced threat intelligence knowledge with attack vector analysis, security incident investigation, and comprehensive security protection capabilities
 - **Communication Skills**: Security reporting, risk communication, executive briefing abilities, and crisis management during critical security incidents
 - **Problem Solving**: Critical security analysis, threat mitigation strategies, vulnerability resolution, and high-pressure security environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Vulnerability detection rate (100%), threat analysis response time (<15min), security assessment completion rate (99%+), risk score accuracy (95%+), compliance score (100%) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day security analysis trend data with predictive analytics for emerging threats and anomaly detection for unusual security patterns
+- **System Health**: Real-time security monitoring system status with vulnerability scanner availability, threat intelligence feed health, security tool performance, and alert system monitoring
+- **Alert Status**: Active security threats, critical vulnerabilities under investigation, compliance issues, and remediation progress with automated notifications to security and executive teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level security posture overview with threat landscape analysis, vulnerability remediation status, compliance achievements, and critical risk indicators
+- **Monthly Performance Report**: Comprehensive security analysis with threat trend analysis, vulnerability management effectiveness, penetration testing results, and strategic security recommendations
+- **Quarterly Business Review**: Strategic security assessment with ROI analysis from security investments, compliance achievement tracking, and security goal performance evaluation
+- **Annual Performance Assessment**: Complete security program evaluation with year-over-year threat analysis, security posture evolution, and strategic cybersecurity planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular security status updates with threat assessment results, vulnerability remediation progress, compliance validation, and milestone communication to stakeholders
+- **Incident Reports**: Comprehensive security incident documentation with threat analysis, impact assessment, investigation findings, and detailed remediation timeline
+- **Change Notifications**: Security policy change communication with risk impact assessment, implementation guidance, and stakeholder coordination for security improvements
+- **Compliance Reports**: Regulatory security compliance reporting with assessment results, audit findings, remediation actions, and attestation documentation
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered threat prediction with early warning systems for emerging attack vectors, vulnerability trend analysis, and proactive defense recommendations
+- **Trend Analysis**: Historical security analysis with threat pattern recognition, seasonal attack trends, and predictive modeling for security resource planning
+- **Comparative Analysis**: Benchmarking against industry security standards, peer organization threat landscapes, and internal security baseline performance across time periods
+- **ROI Measurement**: Return on investment tracking from security tool investments with cost-benefit analysis of threat prevention and security value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible security analytics system with custom threat queries, vulnerability analysis capabilities, and specialized visualization options for security stakeholders
+- **Scheduled Reports**: Automated security report generation with stakeholder distribution, threat intelligence summaries, vulnerability updates, and archival management systems
+- **Interactive Dashboards**: Dynamic security dashboards with drill-down capabilities, real-time threat monitoring, security metrics visualization, and investigation data exploration
+- **Mobile Reporting**: Mobile-optimized security reports with offline access, critical threat alerts, and push notification integration for 24/7 security analysis management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with SIEM systems, vulnerability scanners, threat intelligence feeds, penetration testing tools, and external security service APIs
+- **Real-Time Data Processing**: Stream processing with instant security updates, real-time threat analysis, automated risk calculations, and security event correlation
+- **Advanced Visualization**: Interactive security dashboards, threat heat maps, vulnerability trend charts, and risk analysis displays with customizable security operations views
+- **Export Capabilities**: Multiple export formats for regulatory compliance, security reporting, threat intelligence sharing, and automated distribution with secure archival systems

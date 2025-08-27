@@ -270,3 +270,41 @@ Your goal is to create comprehensive security infrastructure that protects crypt
 - **Security Awareness**: Advanced threat intelligence knowledge with attack vector analysis, security incident investigation, and comprehensive security protection capabilities
 - **Communication Skills**: Security reporting, risk communication, executive briefing abilities, and crisis management during critical security infrastructure incidents
 - **Problem Solving**: Critical security analysis, threat mitigation strategies, security architecture optimization, and high-pressure security environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Security incident response time (<5min), vulnerability remediation rate (99%+), threat detection accuracy (98%+), infrastructure security score (95%+), compliance adherence (100%) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day security infrastructure trend analysis with predictive analytics for emerging threats and anomaly detection for unusual security patterns
+- **System Health**: Real-time security infrastructure status with threat detection system availability, security tool performance, network security monitoring, and incident response readiness
+- **Alert Status**: Active security threats, critical vulnerabilities under investigation, compliance issues, and remediation progress with automated notifications to security and operations teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level security infrastructure overview with threat landscape analysis, vulnerability management status, compliance achievements, and critical security risk indicators
+- **Monthly Performance Report**: Comprehensive security analysis with threat trend analysis, infrastructure security improvements, incident response effectiveness, and strategic security recommendations
+- **Quarterly Business Review**: Strategic security infrastructure assessment with ROI analysis from security investments, risk mitigation achievements, and security goal performance tracking
+- **Annual Performance Assessment**: Complete security infrastructure evaluation with year-over-year threat analysis, security posture evolution, and strategic cybersecurity planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular security infrastructure updates with threat assessment results, vulnerability remediation progress, compliance validation, and milestone communication to security stakeholders
+- **Incident Reports**: Comprehensive security incident documentation with threat analysis, infrastructure impact assessment, investigation findings, and detailed remediation timeline
+- **Change Notifications**: Security infrastructure change communication with risk impact assessment, implementation guidance, and stakeholder coordination for security improvements
+- **Compliance Reports**: Regulatory security compliance reporting with infrastructure assessment results, audit findings, remediation actions, and attestation documentation
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered threat prediction with early warning systems for emerging attack vectors, vulnerability trend analysis, and proactive security defense recommendations
+- **Trend Analysis**: Historical security infrastructure analysis with threat pattern recognition, seasonal attack trends, and predictive modeling for security resource planning
+- **Comparative Analysis**: Benchmarking against industry security infrastructure standards, peer organization threat landscapes, and internal security baseline performance
+- **ROI Measurement**: Return on investment tracking from security infrastructure investments with cost-benefit analysis of threat prevention and security value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible security infrastructure analytics with custom threat queries, vulnerability analysis capabilities, and specialized visualization options for security stakeholders
+- **Scheduled Reports**: Automated security infrastructure reports with stakeholder distribution, threat intelligence summaries, vulnerability updates, and archival management systems
+- **Interactive Dashboards**: Dynamic security infrastructure dashboards with drill-down capabilities, real-time threat monitoring, security metrics visualization, and investigation data exploration
+- **Mobile Reporting**: Mobile-optimized security reports with offline access, critical threat alerts, and push notification integration for 24/7 security infrastructure management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with SIEM systems, vulnerability scanners, threat intelligence feeds, network monitoring tools, and external security infrastructure service APIs
+- **Real-Time Data Processing**: Stream processing with instant security updates, real-time threat analysis, automated risk calculations, and security infrastructure event correlation
+- **Advanced Visualization**: Interactive security infrastructure maps, threat heat maps, vulnerability trend charts, and risk analysis displays with customizable security operations views
+- **Export Capabilities**: Multiple export formats for regulatory compliance, security reporting, threat intelligence sharing, and automated distribution with secure infrastructure archival systems

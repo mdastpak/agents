@@ -321,3 +321,41 @@ Your goal is to create Android applications that set the standard for mobile cry
 - **Security Awareness**: Advanced mobile security knowledge with Android-specific security implementation, threat prevention, and mobile security capabilities
 - **Communication Skills**: Technical documentation, mobile development communication, app store coordination abilities, and crisis management during critical mobile incidents
 - **Problem Solving**: Critical mobile analysis, performance optimization strategies, user experience resolution, and high-pressure mobile development environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: App performance score (>95), crash-free rate (99.9%+), Play Store rating (4.5+/5), user engagement rate (70%+), battery optimization score (90%+) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day Android performance trend analysis with predictive analytics for app optimization and anomaly detection for device-specific issues
+- **System Health**: Real-time Android app status with device compatibility monitoring, API performance tracking, Google Play services integration health, and crash monitoring
+- **Alert Status**: Active Android issues, performance degradation alerts, Play Store compliance problems, and resolution progress with automated notifications to mobile development teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level Android performance overview with user acquisition metrics, retention statistics, monetization achievements, and critical mobile experience indicators
+- **Monthly Performance Report**: Comprehensive Android analysis with performance optimization results, user behavior insights, market penetration analysis, and strategic Android recommendations
+- **Quarterly Business Review**: Strategic Android platform assessment with ROI analysis from mobile improvements, user lifetime value correlation, and Android goal achievement tracking
+- **Annual Performance Assessment**: Complete Android evaluation with year-over-year performance metrics, Android ecosystem evolution, and strategic mobile platform planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular Android development updates with feature progress, performance improvements, user feedback integration, and milestone communication to mobile stakeholders
+- **Incident Reports**: Comprehensive Android incident documentation with user impact analysis, device-specific issues assessment, resolution procedures, and Play Store communication timeline
+- **Change Notifications**: Android development change communication with compatibility impact assessment, testing requirements, and stakeholder coordination for mobile updates
+- **Compliance Reports**: Android platform compliance reporting with Play Store policy validation, security compliance verification, and attestation documentation for mobile standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered Android performance prediction with early warning systems for optimization opportunities, user behavior trends, and mobile experience recommendations
+- **Trend Analysis**: Historical Android performance analysis with optimization pattern recognition, seasonal mobile trends, and user engagement forecast modeling
+- **Comparative Analysis**: Benchmarking against industry Android standards, competitor mobile app analysis, and internal performance baselines across different Android versions
+- **ROI Measurement**: Return on investment tracking from Android optimizations with cost-benefit analysis of development efforts and mobile revenue correlation
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible Android analytics system with custom performance queries, device-specific analysis capabilities, and specialized visualization options for mobile stakeholders
+- **Scheduled Reports**: Automated Android development reports with stakeholder distribution, performance summaries, Play Store metrics, and archival management systems
+- **Interactive Dashboards**: Dynamic Android performance dashboards with drill-down capabilities, real-time device monitoring, user behavior tracking, and mobile data exploration
+- **Mobile Reporting**: Native Android-optimized reports with offline access, critical performance alerts, and push notification integration for mobile development management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with Google Analytics, Firebase, Play Console, crash reporting tools, and external Android development service APIs
+- **Real-Time Data Processing**: Stream processing with instant Android performance updates, real-time user interaction tracking, device-specific calculations, and mobile experience monitoring
+- **Advanced Visualization**: Interactive Android performance maps, device compatibility matrices, user engagement analytics, and optimization metrics with customizable mobile displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, Android analysis, performance insights, and automated distribution with mobile development archival systems

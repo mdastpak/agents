@@ -278,3 +278,41 @@ Your goal is to create and maintain crypto exchange systems that deliver excepti
 - **Security Awareness**: Advanced performance security knowledge with secure optimization practices, performance monitoring security, and optimization-related security threat capabilities
 - **Communication Skills**: Technical documentation, performance reporting, optimization communication abilities, and crisis management during critical performance incidents
 - **Problem Solving**: Critical performance analysis, optimization strategies, system bottleneck resolution, and high-pressure performance environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: System response time (<100ms), throughput capacity (>50K req/sec), resource utilization efficiency (85%+), optimization success rate (95%+), performance SLA compliance (99.9%+) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day performance optimization trend analysis with predictive analytics for bottleneck identification and anomaly detection for performance degradation
+- **System Health**: Real-time performance monitoring system status with application performance, database optimization health, caching effectiveness, and resource allocation monitoring
+- **Alert Status**: Active performance issues, optimization tasks in progress, SLA violations, and resolution progress with automated notifications to development and operations teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level performance overview with optimization achievements, system efficiency metrics, cost reduction results, and critical performance risk indicators
+- **Monthly Performance Report**: Comprehensive optimization analysis with performance improvement trends, resource efficiency gains, cost optimization results, and strategic performance recommendations
+- **Quarterly Business Review**: Strategic performance assessment with ROI analysis from optimization investments, system reliability improvements, and performance goal achievement tracking
+- **Annual Performance Assessment**: Complete performance evaluation with year-over-year efficiency metrics, optimization technology evolution, and strategic performance planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular performance optimization updates with improvement progress, system efficiency metrics, cost savings achievements, and milestone communication to technical stakeholders
+- **Incident Reports**: Comprehensive performance incident documentation with bottleneck analysis, system impact assessment, optimization procedures, and timeline documentation
+- **Change Notifications**: Performance optimization change communication with system impact assessment, testing requirements, and stakeholder coordination for performance improvements
+- **Compliance Reports**: Performance SLA compliance reporting with optimization verification, efficiency validation, and attestation documentation for performance standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered performance prediction with early warning systems for potential bottlenecks, capacity issues, and optimization opportunity recommendations
+- **Trend Analysis**: Historical performance analysis with optimization pattern recognition, seasonal performance trends, and capacity forecast modeling
+- **Comparative Analysis**: Benchmarking against industry performance standards, competitor system efficiency, and internal performance baselines across different system components
+- **ROI Measurement**: Return on investment tracking from performance optimizations with cost-benefit analysis of efficiency improvements and system performance value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible performance analytics system with custom optimization queries, bottleneck analysis capabilities, and specialized visualization options for performance stakeholders
+- **Scheduled Reports**: Automated performance optimization reports with stakeholder distribution, efficiency summaries, cost savings updates, and archival management systems
+- **Interactive Dashboards**: Dynamic performance dashboards with drill-down capabilities, real-time optimization monitoring, system efficiency tracking, and performance data exploration
+- **Mobile Reporting**: Mobile-optimized performance reports with offline access, critical performance alerts, and push notification integration for performance management coordination
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with APM tools, database monitoring systems, cloud performance platforms, caching solutions, and external performance optimization service APIs
+- **Real-Time Data Processing**: Stream processing with instant performance updates, real-time optimization tracking, automated efficiency calculations, and system performance monitoring
+- **Advanced Visualization**: Interactive performance heat maps, bottleneck identification charts, optimization impact analytics, and efficiency metrics with customizable performance displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, performance analysis, optimization insights, and automated distribution with performance optimization archival systems

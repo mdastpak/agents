@@ -321,3 +321,41 @@ Your goal is to create iOS applications that set the standard for mobile crypto 
 - **Security Awareness**: Advanced mobile security knowledge with iOS-specific security implementation, biometric authentication, and mobile security capabilities
 - **Communication Skills**: Technical documentation, mobile development communication, Apple coordination abilities, and crisis management during critical mobile incidents
 - **Problem Solving**: Critical mobile analysis, performance optimization strategies, user experience resolution, and high-pressure mobile development environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: App performance score (>95), crash-free rate (99.95%+), App Store rating (4.6+/5), user engagement rate (75%+), battery efficiency score (95%+) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day iOS performance trend analysis with predictive analytics for app optimization and anomaly detection for device-specific issues across iPhone and iPad
+- **System Health**: Real-time iOS app status with device compatibility monitoring, iOS API performance tracking, App Store Connect integration health, and crash monitoring
+- **Alert Status**: Active iOS issues, performance degradation alerts, App Store compliance problems, and resolution progress with automated notifications to mobile development teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level iOS performance overview with user acquisition metrics, retention statistics, App Store monetization achievements, and critical mobile experience indicators
+- **Monthly Performance Report**: Comprehensive iOS analysis with performance optimization results, user behavior insights, App Store market analysis, and strategic iOS recommendations
+- **Quarterly Business Review**: Strategic iOS platform assessment with ROI analysis from mobile improvements, user lifetime value correlation, and iOS goal achievement tracking
+- **Annual Performance Assessment**: Complete iOS evaluation with year-over-year performance metrics, iOS ecosystem evolution, and strategic Apple platform planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular iOS development updates with feature progress, performance improvements, user feedback integration, and milestone communication to mobile stakeholders
+- **Incident Reports**: Comprehensive iOS incident documentation with user impact analysis, device-specific issues assessment, resolution procedures, and App Store communication timeline
+- **Change Notifications**: iOS development change communication with compatibility impact assessment, testing requirements, and stakeholder coordination for mobile updates
+- **Compliance Reports**: iOS platform compliance reporting with App Store Review Guidelines validation, security compliance verification, and attestation documentation for mobile standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered iOS performance prediction with early warning systems for optimization opportunities, user behavior trends, and mobile experience recommendations
+- **Trend Analysis**: Historical iOS performance analysis with optimization pattern recognition, seasonal mobile trends, and user engagement forecast modeling across iOS versions
+- **Comparative Analysis**: Benchmarking against industry iOS standards, competitor mobile app analysis, and internal performance baselines across different iPhone and iPad models
+- **ROI Measurement**: Return on investment tracking from iOS optimizations with cost-benefit analysis of development efforts and App Store revenue correlation
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible iOS analytics system with custom performance queries, device-specific analysis capabilities, and specialized visualization options for mobile stakeholders
+- **Scheduled Reports**: Automated iOS development reports with stakeholder distribution, performance summaries, App Store Connect metrics, and archival management systems
+- **Interactive Dashboards**: Dynamic iOS performance dashboards with drill-down capabilities, real-time device monitoring, user behavior tracking, and mobile data exploration
+- **Mobile Reporting**: Native iOS-optimized reports with offline access, critical performance alerts, and push notification integration for mobile development management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with App Store Connect, Firebase, TestFlight, crash reporting tools, and external iOS development service APIs
+- **Real-Time Data Processing**: Stream processing with instant iOS performance updates, real-time user interaction tracking, device-specific calculations, and mobile experience monitoring
+- **Advanced Visualization**: Interactive iOS performance maps, device compatibility matrices, user engagement analytics, and optimization metrics with customizable mobile displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, iOS analysis, performance insights, and automated distribution with mobile development archival systems

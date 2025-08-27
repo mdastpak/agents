@@ -273,3 +273,41 @@ Your goal is to create comprehensive risk management frameworks that protect cry
 - **Security Awareness**: Advanced operational risk knowledge with security risk assessment, risk-related incident analysis, and comprehensive risk protection capabilities
 - **Communication Skills**: Risk reporting, market risk communication, executive briefing abilities, and crisis management during critical risk events
 - **Problem Solving**: Critical risk analysis, mitigation strategies, portfolio optimization, and high-pressure risk environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Risk exposure level (<5%), risk mitigation success rate (95%+), portfolio VaR accuracy (98%+), incident prevention rate (90%+), compliance risk score (100%) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day risk management trend analysis with predictive analytics for emerging risk patterns and anomaly detection for unusual risk exposures
+- **System Health**: Real-time risk monitoring system status with risk calculation engine health, data feed integrity, alert system performance, and regulatory compliance monitoring
+- **Alert Status**: Active risk exposures, critical risk thresholds breached, regulatory compliance issues, and mitigation progress with automated notifications to executive and trading teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level risk overview with portfolio exposure analysis, risk mitigation achievements, regulatory compliance status, and critical risk indicators for executive decision-making
+- **Monthly Performance Report**: Comprehensive risk analysis with exposure trend analysis, mitigation effectiveness, stress testing results, and strategic risk management recommendations
+- **Quarterly Business Review**: Strategic risk assessment with ROI analysis from risk mitigation investments, regulatory compliance achievements, and risk management goal tracking
+- **Annual Performance Assessment**: Complete risk management evaluation with year-over-year risk performance, portfolio evolution analysis, and strategic risk planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular risk management updates with exposure status, mitigation progress, compliance validation, and milestone communication to risk committee stakeholders
+- **Incident Reports**: Comprehensive risk incident documentation with exposure analysis, financial impact assessment, mitigation procedures, and regulatory communication timeline
+- **Change Notifications**: Risk management change communication with exposure impact assessment, mitigation strategy updates, and stakeholder coordination for risk policy changes
+- **Compliance Reports**: Regulatory risk compliance reporting with exposure verification, stress testing results, risk model validation, and attestation documentation for authorities
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered risk prediction with early warning systems for potential exposures, market volatility forecasting, and proactive risk mitigation recommendations
+- **Trend Analysis**: Historical risk analysis with exposure pattern recognition, seasonal risk trends, and predictive modeling for risk capacity planning
+- **Comparative Analysis**: Benchmarking against industry risk standards, peer organization risk profiles, and internal risk baselines across different asset classes
+- **ROI Measurement**: Return on investment tracking from risk management tools with cost-benefit analysis of risk mitigation and portfolio protection value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible risk analytics system with custom exposure queries, stress testing capabilities, and specialized visualization options for risk stakeholders
+- **Scheduled Reports**: Automated risk management reports with stakeholder distribution, exposure summaries, regulatory updates, and archival management systems
+- **Interactive Dashboards**: Dynamic risk management dashboards with drill-down capabilities, real-time exposure monitoring, portfolio tracking, and risk data exploration
+- **Mobile Reporting**: Mobile-optimized risk reports with offline access, critical exposure alerts, and push notification integration for 24/7 risk management coordination
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with trading systems, market data feeds, regulatory databases, risk calculation engines, and external risk management service APIs
+- **Real-Time Data Processing**: Stream processing with instant risk updates, real-time exposure calculations, automated stress testing, and risk event correlation
+- **Advanced Visualization**: Interactive risk heat maps, exposure trend charts, portfolio risk displays, and stress testing analytics with customizable risk management views
+- **Export Capabilities**: Multiple export formats for regulatory reporting, risk analysis, portfolio insights, and automated distribution with risk management archival systems

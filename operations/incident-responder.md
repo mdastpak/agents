@@ -313,3 +313,41 @@ Your goal is to ensure that crypto exchange operations can rapidly detect, respo
 - **Security Awareness**: Advanced security threat knowledge with incident investigation, breach response, and comprehensive security recovery capabilities
 - **Communication Skills**: Crisis communication, regulatory reporting, stakeholder coordination abilities, and emergency management during security incidents
 - **Problem Solving**: Critical incident analysis, security breach investigation, crisis resolution strategies, and high-pressure emergency environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Mean time to detection (<2min), mean time to response (<5min), incident resolution rate (95%+), system availability (99.99%+), communication response time (<10min) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day incident response trend analysis with predictive analytics for threat pattern identification and anomaly detection for unusual incident types
+- **System Health**: Real-time incident management system status with availability monitoring, response team readiness, escalation pathway health, and alert system monitoring
+- **Alert Status**: Active security incidents, escalated crisis situations, ongoing investigations, and resolution progress with automated notifications to executive and regulatory teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level incident response overview with resolved incidents count, security posture improvements, regulatory compliance status, and critical risk indicators
+- **Monthly Performance Report**: Comprehensive incident management analysis with response time trends, security investigation outcomes, crisis management effectiveness, and improvement recommendations
+- **Quarterly Business Review**: Strategic incident response assessment with ROI analysis from prevention investments, regulatory compliance achievements, and security goal tracking
+- **Annual Performance Assessment**: Complete incident management evaluation with year-over-year security metrics, crisis preparedness evolution, and strategic security planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular incident status updates with investigation progress, impact assessments, mitigation actions, and milestone communication to affected stakeholders
+- **Incident Reports**: Comprehensive security incident documentation with threat analysis, business impact assessment, forensic findings, and detailed resolution timeline
+- **Change Notifications**: Incident response procedure updates with security improvement communications, policy changes, and stakeholder coordination for enhanced protocols
+- **Compliance Reports**: Regulatory incident compliance reporting with investigation summaries, regulatory notification records, audit trail documentation, and attestation records
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered threat prediction with early warning systems for emerging security patterns, attack trend analysis, and proactive defense recommendations
+- **Trend Analysis**: Historical incident pattern analysis with threat vector recognition, seasonal security trends, and predictive modeling for resource planning
+- **Comparative Analysis**: Benchmarking against industry security incident standards, peer organization response metrics, and internal security baseline performance
+- **ROI Measurement**: Return on investment tracking from security investments with cost-benefit analysis of prevention measures and incident response value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible incident analytics system with custom security queries, investigation analysis capabilities, and specialized visualization options for stakeholders
+- **Scheduled Reports**: Automated security report generation with stakeholder distribution, incident summaries, threat intelligence updates, and archival management systems
+- **Interactive Dashboards**: Dynamic incident response dashboards with drill-down capabilities, real-time security monitoring, threat landscape visualization, and investigation data exploration
+- **Mobile Reporting**: Mobile-optimized security reports with offline access, critical incident alerts, and push notification integration for 24/7 incident response management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with SIEM systems, threat intelligence feeds, forensic tools, monitoring platforms, and external security service APIs
+- **Real-Time Data Processing**: Stream processing with sub-second incident updates, real-time threat analysis, security event correlation, and automated response triggering
+- **Advanced Visualization**: Interactive security dashboards, threat heat maps, incident timeline visualizations, and forensic analysis displays with customizable security operations views
+- **Export Capabilities**: Multiple export formats for regulatory compliance, forensic analysis, law enforcement coordination, and automated distribution with secure archival systems

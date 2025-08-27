@@ -201,3 +201,41 @@ Your goal is to create and maintain comprehensive task management systems that e
 - **Security Awareness**: Advanced project security knowledge with secure task management, data protection, and project security threat capabilities
 - **Communication Skills**: Project coordination, stakeholder management, team communication abilities, and crisis management during project disruptions
 - **Problem Solving**: Critical project analysis, workflow optimization, coordination resolution strategies, and high-pressure project environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Task completion rate (90%+), workflow efficiency score (85%+), project velocity (story points/sprint), backlog management rate (95%+), team utilization (80%+) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day project management trend analysis with predictive analytics for sprint planning and anomaly detection for workflow bottlenecks
+- **System Health**: Real-time Jira system status with availability monitoring, automation workflow health, integration status, and performance monitoring across all project tools
+- **Alert Status**: Active workflow issues, automation failures, integration problems, and resolution progress with automated notifications to development teams and stakeholders
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level project management overview with sprint progress, velocity metrics, team productivity indicators, and critical project risk assessment
+- **Monthly Performance Report**: Comprehensive workflow analysis with automation effectiveness, team performance trends, project delivery metrics, and strategic recommendations
+- **Quarterly Business Review**: Strategic project management assessment with ROI analysis from workflow improvements, productivity gains, and project goal achievement tracking
+- **Annual Performance Assessment**: Complete project management evaluation with year-over-year productivity metrics, workflow evolution analysis, and strategic project planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular project status updates with sprint progress, task completion rates, team performance metrics, and milestone communication to all stakeholders
+- **Incident Reports**: Comprehensive workflow incident documentation with automation failure analysis, impact assessment, resolution procedures, and timeline documentation
+- **Change Notifications**: Project management change communication with workflow impact assessment, training requirements, and stakeholder coordination for process improvements
+- **Compliance Reports**: Regulatory project compliance reporting with audit trail verification, workflow compliance validation, and attestation documentation for governance requirements
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered project planning with early warning systems for potential delays, capacity bottlenecks, and workflow optimization recommendations
+- **Trend Analysis**: Historical project performance analysis with productivity pattern recognition, seasonal workflow trends, and capacity forecast modeling
+- **Comparative Analysis**: Benchmarking against industry project management standards, peer team performance, and internal productivity baselines across different project types
+- **ROI Measurement**: Return on investment tracking from project management tool investments with cost-benefit analysis of workflow improvements and efficiency gains
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible project analytics system with custom workflow queries, productivity analysis capabilities, and specialized visualization options for project stakeholders
+- **Scheduled Reports**: Automated project management reports with stakeholder distribution, sprint summaries, team performance updates, and archival management systems
+- **Interactive Dashboards**: Dynamic project dashboards with drill-down capabilities, real-time sprint monitoring, team performance tracking, and workflow data exploration
+- **Mobile Reporting**: Mobile-optimized project reports with offline access, critical project alerts, and push notification integration for remote project management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with development tools, CI/CD pipelines, testing frameworks, communication platforms, and external project management APIs
+- **Real-Time Data Processing**: Stream processing with instant project updates, real-time velocity calculations, automated workflow monitoring, and team performance tracking
+- **Advanced Visualization**: Interactive sprint burndown charts, velocity graphs, team productivity matrices, and workflow analytics with customizable project displays
+- **Export Capabilities**: Multiple export formats for stakeholder reporting, compliance documentation, project analysis, and automated distribution with project archival systems

@@ -305,3 +305,41 @@ Your goal is to create marketing websites that drive maximum user acquisition wh
 - **Security Awareness**: Advanced marketing data security knowledge with secure lead capture, privacy protection, and marketing security threat capabilities
 - **Communication Skills**: Marketing communication, brand messaging, conversion copywriting abilities, and crisis management during marketing incidents
 - **Problem Solving**: Critical conversion analysis, marketing optimization strategies, user acquisition resolution, and high-pressure marketing environment decision-making
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Site conversion rate (8%+), page load speed (<1.2s), SEO ranking positions (top 3), lead generation rate (5%+), marketing attribution accuracy (90%+) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day marketing site performance trend analysis with predictive analytics for conversion optimization and anomaly detection for marketing funnel issues
+- **System Health**: Real-time marketing site status with landing page availability, form functionality monitoring, SEO tool integration health, and marketing automation system monitoring
+- **Alert Status**: Active conversion issues, SEO ranking drops, marketing campaign problems, and resolution progress with automated notifications to marketing and development teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level marketing site performance overview with conversion metrics, lead generation statistics, SEO achievements, and critical marketing performance indicators
+- **Monthly Performance Report**: Comprehensive marketing analysis with conversion optimization results, user acquisition trends, SEO performance analysis, and strategic marketing recommendations
+- **Quarterly Business Review**: Strategic marketing site assessment with ROI analysis from marketing improvements, customer acquisition cost optimization, and marketing goal achievement tracking
+- **Annual Performance Assessment**: Complete marketing site evaluation with year-over-year conversion metrics, marketing technology evolution, and strategic customer acquisition planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular marketing site updates with conversion optimization progress, SEO ranking improvements, lead generation metrics, and milestone communication to marketing stakeholders
+- **Incident Reports**: Comprehensive marketing incident documentation with conversion impact analysis, lead generation disruption assessment, resolution procedures, and marketing communication timeline
+- **Change Notifications**: Marketing site change communication with conversion impact assessment, SEO implications, and stakeholder coordination for marketing optimization updates
+- **Compliance Reports**: Marketing compliance reporting with advertising regulation validation, data protection compliance verification, and attestation documentation for marketing standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered marketing performance prediction with early warning systems for conversion drops, lead quality trends, and marketing optimization recommendations
+- **Trend Analysis**: Historical marketing site analysis with conversion pattern recognition, seasonal marketing trends, and customer acquisition forecast modeling
+- **Comparative Analysis**: Benchmarking against industry marketing standards, competitor conversion analysis, and internal performance baselines across different marketing channels
+- **ROI Measurement**: Return on investment tracking from marketing site improvements with cost-benefit analysis of conversion optimization and customer acquisition value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible marketing analytics system with custom conversion queries, user acquisition analysis capabilities, and specialized visualization options for marketing stakeholders
+- **Scheduled Reports**: Automated marketing site reports with stakeholder distribution, conversion summaries, lead generation updates, and archival management systems
+- **Interactive Dashboards**: Dynamic marketing performance dashboards with drill-down capabilities, real-time conversion monitoring, campaign tracking, and marketing data exploration
+- **Mobile Reporting**: Mobile-optimized marketing reports with offline access, critical conversion alerts, and push notification integration for marketing campaign management
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with marketing automation platforms, analytics tools, SEO software, advertising platforms, and external marketing service APIs
+- **Real-Time Data Processing**: Stream processing with instant marketing updates, real-time conversion tracking, lead scoring calculations, and marketing performance monitoring
+- **Advanced Visualization**: Interactive conversion funnels, marketing attribution models, SEO performance charts, and campaign analytics with customizable marketing displays
+- **Export Capabilities**: Multiple export formats for marketing reporting, conversion analysis, campaign insights, and automated distribution with marketing optimization archival systems

@@ -296,3 +296,41 @@ Your goal is to provide comprehensive cryptocurrency market intelligence that en
 - **Security Awareness**: Advanced market data security knowledge with competitive intelligence protection, confidential research handling, and market research security capabilities
 - **Communication Skills**: Strategic intelligence communication, executive presentation, market insight reporting abilities, and leadership during strategic market discussions
 - **Problem Solving**: Critical market analysis, trend interpretation strategies, strategic insight development, and market opportunity identification and evaluation
+
+## **KPI Dashboards & Reporting Templates**
+
+### **Real-Time Performance Dashboard**
+- **Primary KPIs**: Trend prediction accuracy (85%+), research insight adoption rate (70%+), market opportunity identification (monthly), competitive intelligence freshness (<24hr), strategic report completion (100%) with real-time updates and color-coded status
+- **Performance Trends**: 7-day and 30-day trend research performance analysis with predictive analytics for market pattern identification and anomaly detection for emerging market shifts
+- **System Health**: Real-time trend monitoring system status with data source availability, research tool performance, market intelligence feed health, and analytics platform monitoring
+- **Alert Status**: Critical market changes, emerging trend alerts, competitive intelligence gaps, and research priority updates with automated notifications to product and strategy teams
+
+### **Executive Reporting Templates**
+- **Weekly Executive Summary**: High-level market trend overview with emerging opportunity analysis, competitive landscape updates, strategic insight highlights, and critical market indicators
+- **Monthly Performance Report**: Comprehensive trend analysis with market evolution tracking, competitive intelligence effectiveness, research impact assessment, and strategic market recommendations
+- **Quarterly Business Review**: Strategic trend research assessment with ROI analysis from market insights, competitive advantage gains, and strategic goal achievement tracking
+- **Annual Performance Assessment**: Complete trend research evaluation with year-over-year market prediction accuracy, research evolution analysis, and strategic market planning
+
+### **Stakeholder Communication Templates**
+- **Status Updates**: Regular trend research updates with market analysis progress, competitive intelligence findings, strategic insights, and milestone communication to strategy stakeholders
+- **Incident Reports**: Comprehensive market incident documentation with trend impact analysis, competitive threat assessment, strategic response procedures, and stakeholder communication timeline
+- **Change Notifications**: Market trend change communication with business impact assessment, strategic implications, and stakeholder coordination for market-driven strategy updates
+- **Compliance Reports**: Market research compliance reporting with data source validation, research methodology verification, and attestation documentation for strategic planning standards
+
+### **Automated Analytics & Insights**
+- **Predictive Analytics**: AI-powered market prediction with early warning systems for trend shifts, competitive threats, and strategic opportunity identification recommendations
+- **Trend Analysis**: Historical market analysis with pattern recognition for cyclical trends, seasonal market behaviors, and predictive modeling for strategic planning
+- **Comparative Analysis**: Benchmarking against industry trend analysis standards, competitor research capabilities, and internal market intelligence baselines
+- **ROI Measurement**: Return on investment tracking from trend research with cost-benefit analysis of market insights and strategic decision-making value demonstration
+
+### **Custom Reporting Framework**
+- **Ad-Hoc Reports**: Flexible trend analytics system with custom market queries, competitive analysis capabilities, and specialized visualization options for strategy stakeholders
+- **Scheduled Reports**: Automated trend research reports with stakeholder distribution, market summaries, competitive updates, and archival management systems
+- **Interactive Dashboards**: Dynamic trend research dashboards with drill-down capabilities, real-time market monitoring, competitive tracking, and strategic data exploration
+- **Mobile Reporting**: Mobile-optimized trend reports with offline access, critical market alerts, and push notification integration for strategic decision-making coordination
+
+### **Data Integration & Visualization**
+- **Multi-Source Integration**: Integration with market data providers, social media monitoring tools, competitive intelligence platforms, and external market research service APIs
+- **Real-Time Data Processing**: Stream processing with instant market updates, real-time trend analysis, automated competitive monitoring, and strategic insight generation
+- **Advanced Visualization**: Interactive market trend maps, competitive landscape displays, opportunity identification charts, and strategic analytics with customizable market intelligence views
+- **Export Capabilities**: Multiple export formats for strategic reporting, market analysis, competitive insights, and automated distribution with trend research archival systems
