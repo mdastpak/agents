@@ -71,25 +71,21 @@ crypto-exchange-agents/
 ├── devops/
 │   ├── devops-automator.md
 │   ├── security-infrastructure.md
-│   ├── performance-optimizer.md
-│   └── content-infrastructure.md
+│   └── performance-optimizer.md
 ├── qa/
 │   ├── dev-qa-tester.md
-│   ├── dev-security-tester.md
-│   ├── stage-qa-tester.md
-│   ├── stage-performance-tester.md
-│   ├── prod-qa-monitor.md
-│   └── prod-compliance-tester.md
+│   └── stage-qa-tester.md
 ├── content/
 │   ├── strapi-content-manager.md
 │   ├── translation-manager.md
 │   ├── asset-manager.md
 │   └── content-strategist.md
 ├── product/
-│   ├── crypto-product-manager.md
 │   ├── compliance-analyst.md
+│   ├── feedback-synthesizer.md
 │   ├── risk-manager.md
-│   └── ux-researcher.md
+│   ├── sprint-prioritizer.md
+│   └── trend-researcher.md
 ├── project-management/
 │   ├── crypto-project-manager.md
 │   ├── launch-coordinator.md
@@ -97,9 +93,14 @@ crypto-exchange-agents/
 ├── marketing/
 │   └── seo-specialist.md
 └── operations/
+    ├── change-manager.md
     ├── customer-support.md
+    ├── finance-controller.md
+    ├── git-manager.md
     ├── incident-responder.md
-    └── finance-controller.md
+    ├── jira-manager.md
+    ├── security-analyst.md
+    └── version-manager.md
 ```
 
 ## 🏗️ Complete Agent List
@@ -131,20 +132,10 @@ crypto-exchange-agents/
 - **devops-automator** - Create CI/CD pipelines for multi-environment deployment
 - **security-infrastructure** - Implement crypto exchange security and monitoring
 - **performance-optimizer** - Optimize for high-frequency trading performance
-- **content-infrastructure** - Manage WordPress, Strapi, and S3 infrastructure
 
-### Quality Assurance (`qa/`) *[MULTI-STAGE]*
-**Development Environment:**
+### Quality Assurance (`qa/`)
 - **dev-qa-tester** - Unit and integration testing with blockchain test environments
-- **dev-security-tester** - Security scanning and vulnerability assessment
-
-**Staging Environment:**
 - **stage-qa-tester** - End-to-end testing with production-like data
-- **stage-performance-tester** - Load testing and performance validation
-
-**Production Environment:**
-- **prod-qa-monitor** - Live monitoring and incident response testing
-- **prod-compliance-tester** - Regulatory compliance and audit support
 
 ### Content Management (`content/`) *[NEW DEPARTMENT]*
 - **strapi-content-manager** - Manage static content, splash screens, and help documentation
@@ -153,10 +144,11 @@ crypto-exchange-agents/
 - **content-strategist** - Coordinate WordPress blog and Strapi static content
 
 ### Product & Strategy (`product/`)
-- **crypto-product-manager** - Prioritize crypto features and analyze market opportunities
 - **compliance-analyst** - Ensure KYC/AML compliance and regulatory adherence
+- **feedback-synthesizer** - Analyze user feedback and extract actionable insights
 - **risk-manager** - Implement trading risk controls and fraud detection
-- **ux-researcher** - Optimize crypto trading user experience and behavior
+- **sprint-prioritizer** - Optimize 6-day development cycles and feature prioritization
+- **trend-researcher** - Research market trends and identify opportunities
 
 ### Project Management (`project-management/`) *[COORDINATION]*
 - **crypto-project-manager** - Manage complex crypto development projects and cross-team coordination
@@ -166,10 +158,15 @@ crypto-exchange-agents/
 ### Marketing (`marketing/`) *[GROWTH]*
 - **seo-specialist** - Optimize search rankings, crypto keywords, and organic traffic strategies
 
-### Operations (`operations/`)
+### Operations (`operations/`) *[WORKFLOW MANAGEMENT]*
+- **change-manager** - Coordinate API and database changes with impact analysis
 - **customer-support** - Provide crypto-specific support and dispute resolution
-- **incident-responder** - Handle 24/7 monitoring and crisis management
 - **finance-controller** - Manage treasury, accounting, and regulatory reporting
+- **git-manager** - Advanced branch management and version control coordination
+- **incident-responder** - Handle 24/7 monitoring and crisis management
+- **jira-manager** - Task management and coordination hub for all development activities
+- **security-analyst** - Zero-tolerance security enforcement with absolute authority
+- **version-manager** - Semantic versioning and lifecycle management with deprecation tracking
 
 ## 🎯 Crypto Exchange Specializations
 
