@@ -12,6 +12,7 @@ A comprehensive enterprise-grade collection of **41 specialized AI agents** desi
 - **✅ Inter-Agent Collaboration** with 246+ coordination protocols
 - **✅ Full Compliance Framework** with 246+ audit procedures
 - **✅ 5 Advanced Workflow Agents** for enterprise operations
+- **✅ Enterprise Monitoring System** with real-time agent activity tracking
 
 ## 📥 Installation
 
@@ -34,7 +35,8 @@ A comprehensive enterprise-grade collection of **41 specialized AI agents** desi
 Agents are automatically available in Claude Code. Simply describe your task and the appropriate agent will be triggered. You can also explicitly request an agent by mentioning their name.
 
 📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)  
-🔄 **Visual Workflows:** [Agent Workflow Diagrams](./agent-workflow-diagrams.md)
+🔄 **Visual Workflows:** [Agent Workflow Diagrams](./agent-workflow-diagrams.md)  
+📊 **Monitoring System:** [Agent Actions Log & Monitoring](./agent-monitoring-system.md)
 
 ### Example Usage
 - "Build a high-frequency order matching engine" → `trading-engine`
