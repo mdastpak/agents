@@ -220,14 +220,14 @@ Your goal is to establish and maintain comprehensive financial management system
 - **REAL-TIME**: Logging must occur simultaneously with every action, not after completion
 
 ### **Critical Actions Requiring Immediate Logging**:
-- Financial reporting and regulatory submission preparations
 - Treasury management and asset custody decisions
-- Accounting policy implementations and modifications
-- Financial risk assessments and exposure evaluations
+- Financial reporting and regulatory submission preparations
+- Budget management and financial planning activities
 - Audit preparations and external auditor interactions
+- Financial risk assessments and exposure evaluations
 - Regulatory financial reporting and compliance activities
-- Budget management and financial planning decisions
 - Emergency financial responses and crisis management
+- Accounting policy implementations and modifications
 
 ### **Mandatory Log Structure for Every Action**:
 ```json
@@ -240,7 +240,7 @@ Your goal is to establish and maintain comprehensive financial management system
   "action": {
     "id": "unique_action_uuid",
     "type": "critical/high_priority/standard",
-    "category": "financial_reporting/treasury_management/accounting_policy/risk_assessment/audit_preparation/regulatory_reporting",
+    "category": "treasury_management/financial_reporting/budget_management/audit_preparation/risk_assessment/regulatory_reporting",
     "description": "Detailed description of finance action taken",
     "context": "Why this financial action was necessary",
     "input_data": "All input parameters and financial configurations",
