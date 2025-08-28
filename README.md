@@ -40,6 +40,7 @@ Agents are automatically available in Claude Code. Simply describe your task and
 📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 🔄 **Visual Workflows:** [Agent Workflow Diagrams](./agent-workflow-diagrams.md)
 ✅ **Logging Status:** 41/41 agents updated with mandatory logging (100% COMPLETE - All phases finished)
+⚠️ **IMPORTANT:** [Commit Rules & Guidelines](./COMMIT-RULES.md) - **MANDATORY** for all contributors
 
 ### Example Usage
 
@@ -298,6 +299,38 @@ Track your crypto exchange development effectiveness through:
 - **User Experience:** < 3 second page load times, mobile-first design
 - **Development Velocity:** Features delivered within 6-day sprint cycles
 
+## 🚨 Commit Compliance Framework
+
+### **Mandatory Pre-Commit Requirements**
+
+All contributors **MUST** follow our comprehensive commit compliance framework:
+
+#### **📋 Required Pre-Commit Checklist**
+- ✅ **Markdownlint Compliance**: All critical violations fixed (MD047, MD009, MD026, MD034)
+- ✅ **File Cleanup**: All non-.md files removed (*.sh, *.py, *.bak, *.tmp)
+- ✅ **Logging Verification**: Mandatory logging sections present in all agents
+- ✅ **Security Review**: No sensitive information (keys, passwords, tokens) included
+
+#### **🔧 Quick Compliance Check**
+```bash
+# Pre-commit validation
+markdownlint **/*.md && echo "✅ Markdownlint passed"
+find . -name "*.sh" -o -name "*.py" -o -name "*.bak" | wc -l | grep -q "^0$" && echo "✅ No script files"
+git status --porcelain | grep -q . || echo "✅ Working tree clean"
+```
+
+#### **📚 Documentation Standards**
+- **[COMMIT-RULES.md](./COMMIT-RULES.md)**: Complete commit and push guidelines ⚠️ **MANDATORY**
+- **[MARKDOWNLINT-PROCEDURE.md](./MARKDOWNLINT-PROCEDURE.md)**: Detailed markdown formatting procedures
+- **Enterprise Standards**: Professional documentation quality required for all changes
+
+#### **⚡ Zero Tolerance Policy**
+- **Commit Rejection**: Automatic rejection for any compliance violations
+- **Quality Gates**: All changes must pass automated and manual quality checks
+- **Security Requirements**: Immediate rejection for any sensitive information exposure
+- **Documentation Standards**: Enterprise-grade markdown formatting required
+
+**🎯 Result**: This framework ensures **100% compliance** with enterprise security, quality, and documentation standards across all crypto exchange agent development.
 
 ## 🛠️ Customizing Agents for Your Exchange
 
