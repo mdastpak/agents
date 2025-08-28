@@ -38,7 +38,7 @@ A comprehensive enterprise-grade collection of **41 specialized AI agents** desi
 Agents are automatically available in Claude Code. Simply describe your task and the appropriate agent will be triggered. You can also explicitly request an agent by mentioning their name.
 
 📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
-🔄 **Visual Workflows:** [Agent Workflow Diagrams](./agent-workflow-diagrams.md)
+🔄 **Visual Workflows:** [Agent Workflow Diagrams](./AGENT-WORKFLOW-DIAGRAMS.md)
 ✅ **Logging Status:** 41/41 agents updated with mandatory logging (100% COMPLETE - All phases finished)
 ⚠️ **IMPORTANT:** [Commit Rules & Guidelines](./COMMIT-RULES.md) - **MANDATORY** for all contributors
 
