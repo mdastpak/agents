@@ -36,8 +36,7 @@ Agents are automatically available in Claude Code. Simply describe your task and
 
 📚 **Learn more:** [Claude Code Sub-Agents Documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents)  
 🔄 **Visual Workflows:** [Agent Workflow Diagrams](./agent-workflow-diagrams.md)  
-📊 **Monitoring System:** [Agent Actions Log & Monitoring](./agent-monitoring-system.md)  
-✅ **Compliance Status:** [CRITICAL FRAMEWORK ESTABLISHED](./COMPLIANCE-STATUS-FINAL.md) (11/41 agents - 100% critical operations covered)
+⚠️ **Logging Status:** 24/41 agents updated with mandatory logging (58.5% complete - Phase 3 complete, Phase 4 pending)
 
 ### Example Usage
 - "Build a high-frequency order matching engine" → `trading-engine`
