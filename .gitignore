@@ -1,14 +1,245 @@
-# Claude Code settings and local files
+# =============================================================================
+# CRYPTO EXCHANGE AGENTS - COMPREHENSIVE .GITIGNORE
+# =============================================================================
+# This file ensures only .md files are tracked in the repository
+# All other file types are ignored to maintain clean documentation-only repo
+
+# =============================================================================
+# ORIGINAL CLAUDE CODE SETTINGS
+# =============================================================================
 .claude/
 .DS_Store
 settings.local.json
 
-# OS generated files
-Thumbs.db
+# =============================================================================
+# IGNORE ALL NON-MARKDOWN FILES
+# =============================================================================
+
+# ============= SCRIPTS & EXECUTABLES =============
+*.sh
+*.py
+*.js
+*.ts
+*.jsx
+*.tsx
+*.php
+*.rb
+*.pl
+*.go
+*.rs
+*.java
+*.c
+*.cpp
+*.h
+*.hpp
+*.exe
+*.bin
+*.app
+*.dmg
+*.pkg
+*.bat
+*.cmd
+
+# ============= CONFIGURATION FILES =============
+*.json
+*.yaml
+*.yml
+*.xml
+*.toml
+*.ini
+*.cfg
+*.conf
+*.config
+.env
+.env.*
+Dockerfile*
+docker-compose*
+*.dockerfile
+.dockerignore
+
+# ============= ARCHIVES & PACKAGES =============
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tbz2
+*.tar.xz
+*.txz
+*.deb
+*.rpm
+*.msi
+*.jar
+*.war
+*.ear
+*.nar
+
+# ============= IMAGES & MEDIA =============
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.ico
+*.webp
+*.avif
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+
+# ============= DOCUMENTS & TEXT =============
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.rtf
+*.txt
+*.csv
+*.tsv
+*.odt
+*.ods
+*.odp
+
+# ============= DEVELOPMENT FILES =============
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
 *.swp
 *.swo
 *~
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# IDE files
+# ============= NODE & NPM =============
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package.json
+package-lock.json
+yarn.lock
+.npm
+.yarn
+.pnp.*
+
+# ============= PYTHON =============
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.pypirc
+requirements.txt
+setup.py
+Pipfile*
+poetry.lock
+pyproject.toml
+
+# ============= RUBY =============
+*.gem
+.bundle/
+Gemfile*
+.ruby-version
+.ruby-gemset
+
+# ============= JAVA =============
+*.class
+target/
+build/
+gradle/
+gradlew*
+build.gradle*
+pom.xml
+
+# ============= GO =============
+go.mod
+go.sum
+vendor/
+
+# ============= RUST =============
+Cargo.toml
+Cargo.lock
+target/
+*.rlib
+
+# ============= VERSION CONTROL =============
+.gitmodules
+.gitattributes
+.svn/
+.hg/
+.bzr/
+
+# ============= IDE & EDITORS =============
 .vscode/
 .idea/
+*.sublime-*
+*.code-workspace
+.vim
+.netrwhist
+
+# ============= CLOUD & DEPLOYMENT =============
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+.serverless/
+.vercel
+.netlify
+.firebase/
+.firebaserc
+firebase.json
+
+# ============= DATABASES =============
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+
+# ============= CERTIFICATES & KEYS =============
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# ============= MISC FILES =============
+*.lock
+*.pid
+*.seed
+*.pid.lock
+*.tsbuildinfo
+.nyc_output
+coverage/
+.sass-cache/
+connect.lock
+typings/
+
+# =============================================================================
+# END OF .GITIGNORE - ONLY .MD FILES WILL BE TRACKED
+# =============================================================================
