@@ -1,5 +1,5 @@
 # =============================================================================
-# CRYPTO EXCHANGE AGENTS - COMPREHENSIVE .GITIGNORE
+# AI AGENT FRAMEWORK - COMPREHENSIVE .GITIGNORE
 # =============================================================================
 # This file ensures only .md files are tracked in the repository
 # All other file types are ignored to maintain clean documentation-only repo
@@ -239,6 +239,12 @@ coverage/
 .sass-cache/
 connect.lock
 typings/
+
+# =============================================================================
+# TEST DIRECTORY IGNORE
+# =============================================================================
+# Ignore tests folder for local development and improvement only
+tests/
 
 # =============================================================================
 # END OF .GITIGNORE - ONLY .MD FILES WILL BE TRACKED
