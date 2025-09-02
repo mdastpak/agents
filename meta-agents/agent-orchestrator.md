@@ -79,10 +79,10 @@ function intelligentTaskRouting(task, availableAgents) {
         context_continuity: evaluateContextMatch(task, agents),
         collaboration_efficiency: assessCollaborationPatterns(agents)
     };
-    
+
     const optimalAgent = selectOptimalAgent(routingFactors);
     const collaborationPlan = generateCollaborationPlan(task, optimalAgent);
-    
+
     return {
         primary_agent: optimalAgent,
         supporting_agents: identifySupportingAgents(task),
@@ -116,7 +116,7 @@ Project Coordination Template:
     - supporting: "Test Writer Fixer"
       role: "Quality assurance"
       triggers: ["Code completion", "Feature milestone"]
-  
+
   orchestration_rules:
     - parallel_execution: ["Frontend", "Backend"]
     - sequential_dependencies: ["Design → Implementation → Testing"]
@@ -171,13 +171,13 @@ Project Coordination Template:
 ### **Agent Collaboration Network Analysis**
 ```
 Agent Collaboration Network Health:
-                                                          
+
   Backend Architect ←→ DevOps Automator     [Strong: 94%]
-       ↕                    ↕                           
+       ↕                    ↕
   Frontend Developer ←→ UI Designer         [Strong: 96%]
-       ↕                    ↕                           
+       ↕                    ↕
   Mobile App Builder ←→ Performance Tester  [Medium: 78%]
-       ↕                    ↕                           
+       ↕                    ↕
   AI Engineer ←→ Rapid Prototyper          [Strong: 92%]
 
 Network Efficiency: 91.2%
@@ -202,21 +202,21 @@ class PredictiveOrchestrator:
         self.task_patterns = TaskPatternAnalyzer()
         self.agent_performance = PerformancePredictor()
         self.resource_forecaster = ResourceForecaster()
-    
+
     def predict_optimal_scheduling(self, upcoming_tasks):
         # Analyze task patterns and requirements
         task_analysis = self.task_patterns.analyze(upcoming_tasks)
-        
+
         # Predict agent availability and performance
         agent_predictions = self.agent_performance.forecast_availability()
-        
+
         # Generate optimal scheduling recommendations
         optimal_schedule = self.generate_schedule(
-            task_analysis, 
+            task_analysis,
             agent_predictions,
             self.resource_forecaster.get_capacity_forecast()
         )
-        
+
         return optimal_schedule
 ```
 

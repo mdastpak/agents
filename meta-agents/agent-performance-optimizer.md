@@ -90,7 +90,7 @@ def analyze_agent_performance(agent_metrics):
         'success_rate': find_failing_patterns(),
         'tool_efficiency': analyze_tool_performance()
     }
-    
+
     return generate_optimization_recommendations(bottlenecks)
 ```
 

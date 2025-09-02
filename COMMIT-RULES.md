@@ -1,4 +1,4 @@
-# Crypto Exchange Agents - Commit Rules
+# AI Agent Framework - Commit Rules
 
 ## **🚨 MANDATORY PRE-COMMIT CHECKLIST**
 
@@ -16,7 +16,7 @@ markdownlint **/*.md
 # Fix critical violations immediately:
 # MD047: Files must end with single newline
 # MD009: No trailing spaces
-# MD026: No trailing punctuation in headings  
+# MD026: No trailing punctuation in headings
 # MD034: No bare URLs (wrap in <url>)
 ```
 
@@ -147,7 +147,7 @@ pre-commit:
 
 ### **Manual Verification:**
 1. **Content Quality**: All agent files complete and accurate
-2. **Documentation Standards**: Consistent formatting and structure  
+2. **Documentation Standards**: Consistent formatting and structure
 3. **Logging Compliance**: All agents have mandatory logging sections
 4. **Security Review**: No sensitive information exposed
 
